@@ -7,7 +7,7 @@ The purpose of this analysis was to show the length of time bikes were checked o
 ![bikes.tripduration](bikes.tripduration.PNG)
 The most popular trip duration was five hours.
 
-![Bikes.tripduration.gender](bikes.tripduration.gender.PNG)
+![Bikes.tripduration.gender](Bikes.tripduration.gender.PNG)
 Males had the most amount of trips, and exceeding five hours the longer the tripduration the less amount of rides.
 
 ![stoptime.hour](stoptime.hour.PNG)

@@ -28,6 +28,6 @@ The peak hours in August were 8-9am and 5-7pm.
 ## Summary
 Males had the largest amount of rides, especially the subscribers. The most popular times for a ride seem to be during rush hour on the weekdays (8-9am or 5-7pm). An additional visualizations that could take place would be to look at the number of ride per hour for each user on the weekend. Another visualization could be to look at the number of rides each weekday based on the users birth date.
 
-[NYC citibike](NYC citibike.twb)
+[NYC.citibike](NYC.citibike.twb)
 
-[Citibike Challenge](Citibike Challenge.twb)
+[Citibike.Challenge](Citibike.Challenge.twb)
